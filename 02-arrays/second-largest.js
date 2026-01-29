@@ -9,7 +9,7 @@ Logic:
 - Print secondMax at the end
 */
 
-let arr = [10, 5, 20, 8]
+let arr = [10, 5, 20, 8];
 
 let max = arr[0];
 let secondMax = arr[0];
